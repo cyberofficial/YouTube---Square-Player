@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "YouTube - Square Player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Customizes YouTube player style by making it square again.",
   "icons": {
     "16": "yt-16.png",
